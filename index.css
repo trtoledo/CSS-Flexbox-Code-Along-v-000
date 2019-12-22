@@ -22,6 +22,7 @@ main {
 }
 
 footer {
+  flex-shrink: 3;
   background-color: #DAEEEF;
   height: 80px;
   width: 100%;
