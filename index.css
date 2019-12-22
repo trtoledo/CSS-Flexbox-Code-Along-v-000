@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  flex-shrink: 0
   background-color: #FBFFF4;
   height: 80px;
   width: 100%;
